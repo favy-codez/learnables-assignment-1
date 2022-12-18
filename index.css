@@ -10,7 +10,7 @@ hr{
 }
 
 .container{
-    max-width: 350px;
+    max-width: 300px;
     /* background-color: rgb(106,110,11); */
     /* padding: 10px 10px; */
     /* color: #fff; */
@@ -20,7 +20,7 @@ hr{
 }
 
 img{
-    width: 350px;
+    width: 300px;
 }
 
 /* #dog-text{
