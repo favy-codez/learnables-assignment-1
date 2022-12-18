@@ -62,19 +62,25 @@ option{
     width: 100%;
 }
 
-footer{
-    
+.label-text{
+    font-size: 16px;
 }
 
 #p-text{
     color: #666;
     padding: 0 10px;
     font-size: 16px;
+    margin: 0 0 12px 0;
 }
 
 .opt{
     width: 60%;
+    padding:0 0 0 10px ;
     display: flex;
     justify-content: space-between;
     align-items: center
+}
+
+#footer-p{
+    
 }
