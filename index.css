@@ -11,7 +11,7 @@
     /* padding: 10px 10px; */
     color: #fff;
     display: block;
-    margin: 4rem auto;
+    margin: 2rem auto;
     /* padding: 0 0 10px 0; */
 }
 
@@ -19,9 +19,9 @@ img{
     width: 350px;
 }
 
-#heading, #dog-text{
+/* #dog-text{
     padding: 10px 15px;
-}
+} */
 
 #dog-text{
     line-height: 20px;
@@ -30,6 +30,8 @@ img{
 
 #heading{
     font-size: 2rem;
+    color: rgb(16, 17, 17);
+    padding: 0 10px;
 }
 
 #button{
