@@ -43,15 +43,17 @@ img{
 
 #button{
     display: block;
-    margin: 0  auto;
+    margin: 1rem  auto;
     /* margin-bottom: 2rem; */
-    color: rgb(106,110,11);
+    color: #fff;
     border: none;
-    background-color: fff;
+    background-color: rgb(106,110,11);
     border-radius: 4px;
     padding: 3px 10px;
-    font-weight: 800;
+    /* font-weight: 800; */
 }
+
+
 
 .label-text{
     font-size: 1.3rem;
@@ -82,5 +84,5 @@ option{
 }
 
 #footer-p{
-    
+    padding:0 0 0 10px ;
 }
