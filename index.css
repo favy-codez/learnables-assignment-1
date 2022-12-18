@@ -12,6 +12,7 @@
     color: #fff;
     display: block;
     margin: 4rem auto;
+    /* padding: 0 0 10px 0; */
 }
 
 img{
@@ -33,7 +34,8 @@ img{
 
 #button{
     display: block;
-    margin: 0 auto;
+    margin: 0  auto;
+    /* margin-bottom: 2rem; */
     color: rgb(106,110,11);
     border: none;
     background-color: fff;
