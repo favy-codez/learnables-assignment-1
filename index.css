@@ -30,7 +30,8 @@ img{
 #dog-text{
     line-height: 20px;
     text-align: left;
-    padding: 0 15px;
+    padding: 0 10px;
+    font-size: 14px;
     color: #666;
 }
 
