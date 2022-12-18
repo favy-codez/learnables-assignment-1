@@ -54,7 +54,8 @@ img{
 }
 
 #button:hover{
-    color: rgb(106,110,11);
+    color: #000;
+    background-color: rgb(157, 161, 23);
 }
 
 .label-text{
