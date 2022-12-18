@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    max-width: 350px;
+    background-color: rgb(106,110,11);
+    /* padding: 10px 10px; */
+    color: #fff;
+    display: block;
+    margin: 4rem auto;
+}
+
+img{
+    width: 350px;
+}
+
+#heading, #dog-text{
+    padding: 10px 15px;
+}
+
+#dog-text{
+    line-height: 20px;
+    text-align: left;
+}
+
+#heading{
+    font-size: 2rem;
+}
+
+#button{
+    display: block;
+    margin: 0 auto;
+    color: rgb(106,110,11);
+    border: none;
+    background-color: fff;
+    border-radius: 4px;
+    padding: 3px 10px;
+    font-weight: 800;
+}
+
+.label-text{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
