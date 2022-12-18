@@ -11,9 +11,9 @@ hr{
 
 .container{
     max-width: 350px;
-    background-color: rgb(106,110,11);
+    /* background-color: rgb(106,110,11); */
     /* padding: 10px 10px; */
-    color: #fff;
+    /* color: #fff; */
     display: block;
     margin: 2rem auto;
     /* padding: 0 0 10px 0; */
@@ -31,6 +31,7 @@ img{
     line-height: 20px;
     text-align: left;
     padding: 0 15px;
+    color: #666;
 }
 
 #heading{
