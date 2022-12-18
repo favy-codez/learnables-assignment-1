@@ -11,9 +11,11 @@ hr{
 
 .container{
     max-width: 300px;
+    height: auto;
+    box-shadow: 15px 15px 15px rgb(68 68 68 / 60%);
     display: block;
     margin: 2rem auto;
-    /* padding: 0 0 10px 0; */
+    border: 1px solid #000;
 }
 
 img{
