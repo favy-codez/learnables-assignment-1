@@ -96,4 +96,7 @@ option{
     .container{
         max-width: 280px;
     }
+    img{
+        width: 280px;
+    }
 }
